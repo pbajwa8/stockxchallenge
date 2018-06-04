@@ -2,6 +2,8 @@ StockX Coding Challenge
 
 Instructions:
 
-npm install
-npm start
-go to localhost:3000
+1. npm install
+
+2. npm start
+
+3. go to localhost:3000
